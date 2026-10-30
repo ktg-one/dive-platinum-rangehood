@@ -1,0 +1,143 @@
+{
+  "name": "Platinum Rangehood Installations Evaluation",
+  "children": [
+    {
+      "name": "Operating Context & Industry Alignment",
+      "children": [
+        {
+          "name": "Sector: Home trades and appliance installation"
+        },
+        {
+          "name": "Geographic Scope: Perth metropolitan and WA regional"
+        },
+        {
+          "name": "Customer Topology: B2C homeowners and B2B contractors"
+        },
+        {
+          "name": "Regulatory Compliance: DMIRS and EnergySafety WA"
+        },
+        {
+          "name": "Risk Profile: High structural and fire liability"
+        }
+      ]
+    },
+    {
+      "name": "Digital Footprint & Infrastructure",
+      "children": [
+        {
+          "name": "Domain: platinumrangehoods.com.au"
+        },
+        {
+          "name": "Hosting Platform: Weebly SaaS architecture"
+        },
+        {
+          "name": "Domain Registrar: CheaperDomains.com.au"
+        },
+        {
+          "name": "Primary Operators: Rob Szwedowicz and Cynan Szwedowicz"
+        },
+        {
+          "name": "Site Structure: Home, About, Contact, Gallery"
+        }
+      ]
+    },
+    {
+      "name": "DIVE Evaluation Dimensions",
+      "children": [
+        {
+          "name": "Data and Defence (D)",
+          "children": [
+            {
+              "name": "Host Security: Strong Weebly SaaS abstraction"
+            },
+            {
+              "name": "Privacy Policy: Complete absence of data policy"
+            },
+            {
+              "name": "Email Protection: Weak DMARC and SPF configuration"
+            }
+          ]
+        },
+        {
+          "name": "Identity and IP (I)",
+          "children": [
+            {
+              "name": "Corporate Opacity: Missing frontend ABN display"
+            },
+            {
+              "name": "Operator Consistency: Flawless human contact tracking"
+            },
+            {
+              "name": "Manufacturer Endorsements: Schweigen, Qasair, Sirius, Elica"
+            }
+          ]
+        },
+        {
+          "name": "Visibility and Vulnerability (V)",
+          "children": [
+            {
+              "name": "Parasitic SEO: B2B manufacturer directory dominance"
+            },
+            {
+              "name": "Local Maps: Suppressed physical address"
+            },
+            {
+              "name": "Schema Markup: Absence of JSON-LD data"
+            }
+          ]
+        },
+        {
+          "name": "Experience (E)",
+          "children": [
+            {
+              "name": "Contact Access: Dual mobile numbers above the fold"
+            },
+            {
+              "name": "Runtime Failures: Broken /about.html page"
+            },
+            {
+              "name": "Visual Assets: Context-free gallery pages"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Client Report & Scoring",
+      "children": [
+        {
+          "name": "Total DIVE Score: 63 / 100 Functional"
+        },
+        {
+          "name": "Data & Defence Score: 44 / 100"
+        },
+        {
+          "name": "Identity & IP Score: 79 / 100"
+        },
+        {
+          "name": "Visibility Score: 71 / 100"
+        },
+        {
+          "name": "Experience Score: 55 / 100"
+        }
+      ]
+    },
+    {
+      "name": "Prioritized Recommendations",
+      "children": [
+        {
+          "name": "Critical Action: Repair or remove broken About page"
+        },
+        {
+          "name": "High Priority: Display ABN and corporate identity"
+        },
+        {
+          "name": "Medium Priority: Implement basic Privacy Policy"
+        },
+        {
+          "name": "Value Generation: Add contextual captions to gallery"
+        }
+      ]
+    }
+  ]
+}

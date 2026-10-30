@@ -1,0 +1,87 @@
+{
+  "scores": {
+    "D": {
+      "value": 44.0,
+      "source": "report.md",
+      "location": "row 2, score",
+      "raw_value": "44/100",
+      "scale": "0\u2013100"
+    },
+    "I": {
+      "value": 79.0,
+      "source": "report.md",
+      "location": "row 3, score",
+      "raw_value": "79/100",
+      "scale": "0\u2013100"
+    },
+    "V": {
+      "value": 71.0,
+      "source": "report.md",
+      "location": "row 4, score",
+      "raw_value": "71/100",
+      "scale": "0\u2013100"
+    },
+    "E": {
+      "value": 55.0,
+      "source": "report.md",
+      "location": "row 5, score",
+      "raw_value": "55/100",
+      "scale": "0\u2013100"
+    },
+    "overall": {
+      "value": 63.2,
+      "source": "report.md",
+      "location": "line 28",
+      "raw_value": "63.2/100",
+      "scale": "0\u2013100"
+    }
+  },
+  "weights": {
+    "D": {
+      "value": 20.0,
+      "source": "report.md",
+      "location": "row 2, weight",
+      "raw_value": "20%",
+      "scale": "percent"
+    },
+    "I": {
+      "value": 20.0,
+      "source": "report.md",
+      "location": "row 3, weight",
+      "raw_value": "20%",
+      "scale": "percent"
+    },
+    "V": {
+      "value": 35.0,
+      "source": "report.md",
+      "location": "row 4, weight",
+      "raw_value": "35%",
+      "scale": "percent"
+    },
+    "E": {
+      "value": 25.0,
+      "source": "report.md",
+      "location": "row 5, weight",
+      "raw_value": "25%",
+      "scale": "percent"
+    }
+  },
+  "overall": 63.2,
+  "computed_aggregate": 63.2,
+  "overall_method": "supplied overall (weighted check)",
+  "statuses": {
+    "D": "Finding Your Feet",
+    "I": "Good Bones",
+    "V": "Good Bones",
+    "E": "Finding Your Feet"
+  },
+  "findings": {
+    "D": "Secure Weebly hosting shields core files, though missing privacy notices and email anti-spoofing setup leave minor gaps.",
+    "I": "Outstanding real-world reputation backed by major manufacturer endorsements, with a simple opportunity to display your ABN.",
+    "V": "Exceptional direct lead pipeline from manufacturer referral networks, with room to add local map schema data.",
+    "E": "Fast, direct phone access to Rob and Cynan, held back slightly by an inactive 'About' menu link and manual quote photo chasing."
+  },
+  "errors": [],
+  "deploy_ready": true,
+  "status": "validated"
+}
